@@ -1,0 +1,6 @@
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week10F20\Zadacha1Lab9b\Zadacha2Lab9b\bin\Debug\Zadacha2Lab9b.exe.config
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week10F20\Zadacha1Lab9b\Zadacha2Lab9b\bin\Debug\Zadacha2Lab9b.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week10F20\Zadacha1Lab9b\Zadacha2Lab9b\bin\Debug\Zadacha2Lab9b.pdb
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week10F20\Zadacha1Lab9b\Zadacha2Lab9b\obj\Debug\Zadacha2Lab9b.csprojAssemblyReference.cache
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week10F20\Zadacha1Lab9b\Zadacha2Lab9b\obj\Debug\Zadacha2Lab9b.exe
+C:\Users\raTex\Desktop\МАГ ФМИ\C# OOP\C# Projects\Week10F20\Zadacha1Lab9b\Zadacha2Lab9b\obj\Debug\Zadacha2Lab9b.pdb
